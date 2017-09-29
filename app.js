@@ -45,6 +45,7 @@ function analyzeIt() {
 	});
 }	
 
+
 //Runs the function
 $(function() {
   analyzeIt();
